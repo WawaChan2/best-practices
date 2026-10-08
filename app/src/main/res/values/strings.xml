@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Best Practices</string>
+
+    <string name="list_detail_label">List Detail</string>
+    <string name="supporting_pane_label">Supporting Pane</string>
+    <string name="feed_label">Feed</string>
+</resources>
